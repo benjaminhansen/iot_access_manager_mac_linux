@@ -7,9 +7,9 @@ System Requirements
 
 Setup
 1. Download/clone and unzip the repository's contents into a directory in which you have permission to access
-2. Navigate to <code>assets/resources</code> and open the <code>config.json</code> file
-3. Provide your UA Little Rock NetID and Password in the Auth section.<br>You can also change the name of the CSV file that the manager looks for in the <code>assets/resources</code> directory (this is optional).<br>Save and close the file.
-4. Open the <code>iot-devices.csv</code> file also located in <code>assets/resources</code>.<br>This is where you will provide the MAC addresses and hostnames of the devices you want to register with the IoT network.<br><br>The first column must contain the MAC address(es) for any and all devices you want to register.<br>The second column must contain the hostname.<br><br>* Do not provide column headers
+2. Navigate to the <code>config</code> directory and open the <code>config.json</code> file
+3. Provide your UA Little Rock NetID and Password in the Auth section.<br>You can also change the name of the CSV file that the manager looks for in the <code>config</code> directory (this is optional).<br>Save and close the file.
+4. Open the <code>iot-devices.csv</code> file also located in the <code>config</code> directory.<br>This is where you will provide the MAC addresses and hostnames of the devices you want to register with the IoT network.<br><br>The first column must contain the MAC address(es) for any and all devices you want to register.<br>The second column must contain the hostname.<br><br>* Do not provide column headers
 
 Execution
 1. Navigate back to the root of the project.
