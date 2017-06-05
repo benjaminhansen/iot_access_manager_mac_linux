@@ -19,7 +19,7 @@ Setup
 </tr>
 </table>
 </li>
-<li>Run <code>./install.sh</code> from the root of the project. This will:
+<li>Run <code>./install.sh</code> in the terminal from the root of the project. This will:
 <ul>
 <li>create <code>run.sh</code></li>
 <li>create the <code>vendor => app/laravel/iotmgmt/vendor</code> symlink</li>
@@ -30,5 +30,5 @@ Setup
 
 Execution
 1. Navigate back to the root of the project.
-2. Run <code>./run.sh</code>
+2. Run <code>./run.sh</code> in the terminal
 3. If everything was configured and set up correctly you should see an automated Chrome window open and begin to walk through the registration process. Once the process completes Chrome will automatically close and you will receive a "success" message in the terminal.
