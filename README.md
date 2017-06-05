@@ -1,4 +1,4 @@
-# IOT Access Manager for Mac and Linux
+# IoT Access Manager for Mac and Linux
 Allows bulk registration of devices via the UA Little Rock IoT Access Portal
 -
 
